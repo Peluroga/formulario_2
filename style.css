@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: #bd5595;
+    justify-content: center;
+    display: flex;
+}
+#site{
+    width: 1024px;
+    color: rgb(0, 0, 0);
+    background-color: #c5b3da;
+    padding:20px;
+    margin: 10px auto;
+    margin-bottom: 200px;
+}
+#mensagem{
+    display: flex;
+    margin: 5px;
+}
+h2{
+font-size: 1em;
+
+}
+.prosseguir{
+  display: flex;
+  align-items: center;
+  justify-content: baseline;
+
+}
